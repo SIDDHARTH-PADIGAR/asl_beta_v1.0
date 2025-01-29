@@ -62,6 +62,10 @@ The `speak_text()` method:
 ---
 
 ### **How It Works:**
+
+![chatuml-diagram (13)](https://github.com/user-attachments/assets/5ce94b5d-0b21-49f8-9c2a-abdd5c402388)
+
+
 1. The app captures video from the webcam.
 2. **MediaPipe** processes hand landmarks in real-time.
 3. A pre-trained **machine learning model** predicts the ASL sign.
