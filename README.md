@@ -1,6 +1,6 @@
 ## **asl_beta_v1.0: Sign Language Recognition App**
 
-This is the **base model** and **first iteration** of the Sign Language Recognition App, focused on **efficiently identifying hand signs** using **OpenCV** and **MediaPipe**. While it’s not an MVP, this version serves as a strong foundation for building a full-featured ASL learning tool. The primary goal is to accurately identify hand gestures from webcam feed, laying the groundwork for future improvements.
+This is the **base model** and **first iteration** of the Sign Language Recognition App, focused on **efficiently identifying hand signs** using **OpenCV** and **MediaPipe**. This version establishes a solid foundation for a full-featured ASL learning tool. The primary goal is to accurately identify hand gestures from a webcam feed, serving as a stepping stone for future enhancements.
 
 ---
 
